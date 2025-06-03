@@ -7,7 +7,7 @@ Submitted to the *Journal of Emerging Investigators (JEI)*, 2025.
 
 ---
 
-## 📊 Overview
+## Overview
 
 This project examines housing affordability trends in Pennsylvania from 2017 to 2025, comparing urban and rural counties. Affordability is analyzed using:
 
