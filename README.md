@@ -1,5 +1,5 @@
 # PA_housing_analysis
-his repository contains the data processing and analysis code used in the research paper:
+this repository contains the data processing and analysis code used in the research paper:
 
 **"Pennsylvania Polarization: How Housing Unaffordability Reveals Disparity Between Urban and Rural Communities"**
 
